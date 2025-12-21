@@ -1,0 +1,1 @@
+Studi kasus ini merupakan bagian dari kursus komputasi cloud dan keamanan. Fokus utama proyek adalah merancang dan menerapkan arsitektur web yang aman yang menggunakan layanan cloud gratis (Free Tier) untuk melindungi aplikasi dari serangan siber.
